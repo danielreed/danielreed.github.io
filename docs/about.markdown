@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Dan. I'm a backend engineer with more than 20 years of industry experience. For the past three years I've been a software engineer working in the FinTech space, primarily building payments infrastructure on distributed systems. From 2012 to 2020 I was a software engineer and leader at HPE, building a next generation data center management system.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My early experience included working in system administration and operations where I learned to appreciate the difficulty of operating and supporting large-scale enterprise systems.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I spent the start of my professional career building web apps at an internet services company in the early days of the dot.com recession. I focused on honing my technical skills and delivering code that exceeded customer expectations. I am truly grateful for this experience as it introduced me to invaluable mentors and friends who played a pivotal role in launching my career.
